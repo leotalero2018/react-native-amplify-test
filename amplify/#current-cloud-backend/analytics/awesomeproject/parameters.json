@@ -1,0 +1,11 @@
+{
+    "appName": "awesomeproject",
+    "roleName": "pinpointLambdaRole66ca97a6",
+    "cloudWatchPolicyName": "cloudWatchPolicy66ca97a6",
+    "pinpointPolicyName": "pinpointPolicy66ca97a6",
+    "authPolicyName": "pinpoint_amplify_66ca97a6",
+    "unauthPolicyName": "pinpoint_amplify_66ca97a6",
+    "authRoleName": "wesomeroject-20181016181338-authRole",
+    "unauthRoleName": "wesomeroject-20181016181338-unauthRole",
+    "IAMPrefix": "290853433349"
+}
